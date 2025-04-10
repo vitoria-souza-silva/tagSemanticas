@@ -19,3 +19,11 @@ header nav{
     align-items: center;
     color: #fff
 }
+
+nav ul{
+    position: relative;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+}
