@@ -26,4 +26,10 @@ nav ul{
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    list-style: none;
+}
+
+ul li{
+    position: relative;
+    margin-right: 1em;
 }
